@@ -49,4 +49,3 @@ The application consumes financial transaction data from Kafka, performs various
 - The application includes MySQL Python API to create tables (`Transactions`, `sales_per_category`, `sales_per_day`, `sales_per_month`) and perform insert/update operations.
 - Additionally, it includes an Elasticsearch Python API to index transaction data for further analysis.
 ---
-<p style="float: right; font-style: italic;;">tmph2003</p>
